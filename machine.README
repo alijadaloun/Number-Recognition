@@ -1,0 +1,7 @@
+The flow of code in this file is as follows:
+Libraries used: keras, tensorflow, tkinter,numpy,cv2.matplotlib
+1) In the machine_learning.py file the neuraal network is fed with the mnist dataset.
+2) The model is saved to be used with the same accuracy.
+3) The App.py enables a paint app in B&W of 28x28 size.
+4) Then the file is saved as a new png file and the neural network is enabled.
+5) The number is then recognized and displayed
